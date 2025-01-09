@@ -1,9 +1,9 @@
 {
   "routes": {
-    "/test": {},
-    "/test/about": {},
-    "/test/contact": {},
-    "/test/portfolio": {},
-    "/test/start-framework": {}
+    "/Start-Framework": {},
+    "/Start-Framework/about": {},
+    "/Start-Framework/contact": {},
+    "/Start-Framework/portfolio": {},
+    "/Start-Framework/start-framework": {}
   }
 }
