@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --green-color: #1abc9c;
+  --dark-color: #2c3e50;
+  --dark-footer-color: #1a252f;
+}
